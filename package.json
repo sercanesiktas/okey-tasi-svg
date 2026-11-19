@@ -1,0 +1,11 @@
+{
+  "name": "okey-tasi-svg",
+  "version": "0.1.0",
+  "description": "Okey taşları için SVG seti: 52 sayılı taş, sahte okey ve taşın arka yüzü",
+  "type": "module",
+  "scripts": { "uret": "node uret.mjs", "test": "node --test test/*.test.js" },
+  "keywords": ["okey", "svg", "tile", "game", "turkish"],
+  "author": "Sercan Eşiktaş",
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}

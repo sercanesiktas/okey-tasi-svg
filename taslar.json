@@ -1,0 +1,379 @@
+{
+  "genislik": 80,
+  "yukseklik": 110,
+  "arka": "arka.svg",
+  "toplamTas": 106,
+  "taslar": [
+    {
+      "dosya": "kirmizi-01.svg",
+      "ad": "Kırmızı 1",
+      "renk": "kirmizi",
+      "sayi": 1,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-02.svg",
+      "ad": "Kırmızı 2",
+      "renk": "kirmizi",
+      "sayi": 2,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-03.svg",
+      "ad": "Kırmızı 3",
+      "renk": "kirmizi",
+      "sayi": 3,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-04.svg",
+      "ad": "Kırmızı 4",
+      "renk": "kirmizi",
+      "sayi": 4,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-05.svg",
+      "ad": "Kırmızı 5",
+      "renk": "kirmizi",
+      "sayi": 5,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-06.svg",
+      "ad": "Kırmızı 6",
+      "renk": "kirmizi",
+      "sayi": 6,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-07.svg",
+      "ad": "Kırmızı 7",
+      "renk": "kirmizi",
+      "sayi": 7,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-08.svg",
+      "ad": "Kırmızı 8",
+      "renk": "kirmizi",
+      "sayi": 8,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-09.svg",
+      "ad": "Kırmızı 9",
+      "renk": "kirmizi",
+      "sayi": 9,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-10.svg",
+      "ad": "Kırmızı 10",
+      "renk": "kirmizi",
+      "sayi": 10,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-11.svg",
+      "ad": "Kırmızı 11",
+      "renk": "kirmizi",
+      "sayi": 11,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-12.svg",
+      "ad": "Kırmızı 12",
+      "renk": "kirmizi",
+      "sayi": 12,
+      "adet": 2
+    },
+    {
+      "dosya": "kirmizi-13.svg",
+      "ad": "Kırmızı 13",
+      "renk": "kirmizi",
+      "sayi": 13,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-01.svg",
+      "ad": "Sarı 1",
+      "renk": "sari",
+      "sayi": 1,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-02.svg",
+      "ad": "Sarı 2",
+      "renk": "sari",
+      "sayi": 2,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-03.svg",
+      "ad": "Sarı 3",
+      "renk": "sari",
+      "sayi": 3,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-04.svg",
+      "ad": "Sarı 4",
+      "renk": "sari",
+      "sayi": 4,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-05.svg",
+      "ad": "Sarı 5",
+      "renk": "sari",
+      "sayi": 5,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-06.svg",
+      "ad": "Sarı 6",
+      "renk": "sari",
+      "sayi": 6,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-07.svg",
+      "ad": "Sarı 7",
+      "renk": "sari",
+      "sayi": 7,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-08.svg",
+      "ad": "Sarı 8",
+      "renk": "sari",
+      "sayi": 8,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-09.svg",
+      "ad": "Sarı 9",
+      "renk": "sari",
+      "sayi": 9,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-10.svg",
+      "ad": "Sarı 10",
+      "renk": "sari",
+      "sayi": 10,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-11.svg",
+      "ad": "Sarı 11",
+      "renk": "sari",
+      "sayi": 11,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-12.svg",
+      "ad": "Sarı 12",
+      "renk": "sari",
+      "sayi": 12,
+      "adet": 2
+    },
+    {
+      "dosya": "sari-13.svg",
+      "ad": "Sarı 13",
+      "renk": "sari",
+      "sayi": 13,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-01.svg",
+      "ad": "Mavi 1",
+      "renk": "mavi",
+      "sayi": 1,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-02.svg",
+      "ad": "Mavi 2",
+      "renk": "mavi",
+      "sayi": 2,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-03.svg",
+      "ad": "Mavi 3",
+      "renk": "mavi",
+      "sayi": 3,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-04.svg",
+      "ad": "Mavi 4",
+      "renk": "mavi",
+      "sayi": 4,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-05.svg",
+      "ad": "Mavi 5",
+      "renk": "mavi",
+      "sayi": 5,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-06.svg",
+      "ad": "Mavi 6",
+      "renk": "mavi",
+      "sayi": 6,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-07.svg",
+      "ad": "Mavi 7",
+      "renk": "mavi",
+      "sayi": 7,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-08.svg",
+      "ad": "Mavi 8",
+      "renk": "mavi",
+      "sayi": 8,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-09.svg",
+      "ad": "Mavi 9",
+      "renk": "mavi",
+      "sayi": 9,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-10.svg",
+      "ad": "Mavi 10",
+      "renk": "mavi",
+      "sayi": 10,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-11.svg",
+      "ad": "Mavi 11",
+      "renk": "mavi",
+      "sayi": 11,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-12.svg",
+      "ad": "Mavi 12",
+      "renk": "mavi",
+      "sayi": 12,
+      "adet": 2
+    },
+    {
+      "dosya": "mavi-13.svg",
+      "ad": "Mavi 13",
+      "renk": "mavi",
+      "sayi": 13,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-01.svg",
+      "ad": "Siyah 1",
+      "renk": "siyah",
+      "sayi": 1,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-02.svg",
+      "ad": "Siyah 2",
+      "renk": "siyah",
+      "sayi": 2,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-03.svg",
+      "ad": "Siyah 3",
+      "renk": "siyah",
+      "sayi": 3,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-04.svg",
+      "ad": "Siyah 4",
+      "renk": "siyah",
+      "sayi": 4,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-05.svg",
+      "ad": "Siyah 5",
+      "renk": "siyah",
+      "sayi": 5,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-06.svg",
+      "ad": "Siyah 6",
+      "renk": "siyah",
+      "sayi": 6,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-07.svg",
+      "ad": "Siyah 7",
+      "renk": "siyah",
+      "sayi": 7,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-08.svg",
+      "ad": "Siyah 8",
+      "renk": "siyah",
+      "sayi": 8,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-09.svg",
+      "ad": "Siyah 9",
+      "renk": "siyah",
+      "sayi": 9,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-10.svg",
+      "ad": "Siyah 10",
+      "renk": "siyah",
+      "sayi": 10,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-11.svg",
+      "ad": "Siyah 11",
+      "renk": "siyah",
+      "sayi": 11,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-12.svg",
+      "ad": "Siyah 12",
+      "renk": "siyah",
+      "sayi": 12,
+      "adet": 2
+    },
+    {
+      "dosya": "siyah-13.svg",
+      "ad": "Siyah 13",
+      "renk": "siyah",
+      "sayi": 13,
+      "adet": 2
+    },
+    {
+      "dosya": "sahte-okey.svg",
+      "ad": "Sahte okey",
+      "renk": null,
+      "sayi": null,
+      "adet": 2
+    }
+  ]
+}

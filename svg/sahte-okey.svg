@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 110" width="80" height="110" role="img" aria-labelledby="t d">
+  <title id="t">Sahte okey</title>
+  <desc id="d">Okey taşı: sahte okey, yeşil yıldız</desc>
+  <rect x="3" y="6" width="74" height="101" rx="9" fill="#e2d7bb"/>
+  <rect x="3" y="3" width="74" height="101" rx="9" fill="#f6f0e1" stroke="#c9bb98" stroke-width="1.5"/>
+  <polygon points="40.00,29.00 46.47,46.10 64.73,46.97 50.46,58.40 55.28,76.03 40.00,66.00 24.72,76.03 29.54,58.40 15.27,46.97 33.53,46.10" fill="#1e7a4c" stroke="#1e7a4c" stroke-width="3" stroke-linejoin="round"/>
+</svg>

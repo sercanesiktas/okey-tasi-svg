@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 110" width="80" height="110" role="img" aria-labelledby="t d">
+  <title id="t">Mavi 10</title>
+  <desc id="d">Okey taşı: mavi renkli 10</desc>
+  <rect x="3" y="6" width="74" height="101" rx="9" fill="#e2d7bb"/>
+  <rect x="3" y="3" width="74" height="101" rx="9" fill="#f6f0e1" stroke="#c9bb98" stroke-width="1.5"/>
+  <path d="M9 18L22 4V56" transform="translate(12.10 26) scale(0.66)" fill="none" stroke="#1f5fbf" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 4C8 4 6 16 6 30S8 56 20 56 34 44 34 30 32 4 20 4Z" transform="translate(41.50 26) scale(0.66)" fill="none" stroke="#1f5fbf" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="92" r="6" fill="none" stroke="#1f5fbf" stroke-width="3"/>
+</svg>
