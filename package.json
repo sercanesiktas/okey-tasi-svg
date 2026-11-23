@@ -33,6 +33,7 @@
     "taslar.mjs",
     "uret.mjs",
     "onizleme.mjs",
+    "dagit.mjs",
     "LICENSE",
     "README.md"
   ]
