@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "uret": "node uret.mjs",
-    "test": "node --test test/*.test.js"
+    "test": "node --test test/*.test.js",
+    "sprite": "node sprite.mjs"
   },
   "keywords": [
     "okey",
@@ -34,6 +35,8 @@
     "uret.mjs",
     "onizleme.mjs",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "sprite.mjs",
+    "sprite.svg"
   ]
 }
