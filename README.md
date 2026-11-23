@@ -33,6 +33,23 @@ const { taslar, arka } = JSON.parse(readFileSync('taslar.json', 'utf8'));
 const takim = taslar.flatMap((t) => Array(t.adet).fill(t.dosya)); // 106 dosya adı
 ```
 
+## El dağıtıcı
+
+`dagit.mjs`, tam bir takımı karıştırıp dört oyunculu okey dağıtımı yapar: başlayan oyuncuya 15, diğerlerine 14 taş. Göstergeyi seçer (sahte okey gösterge olamaz) ve okeyi belirler: göstergenin rengindeki bir üst sayı, 13'ün üstü 1.
+
+```bash
+node dagit.mjs 42       # aynı tohum her zaman aynı dağıtımı verir
+```
+
+```js
+import { dagit } from './dagit.mjs';
+
+const { gosterge, okey, eller, yigin } = dagit(42);
+eller[0].map((t) => t.dosya); // ilk oyuncunun SVG dosya adları
+```
+
+Tohum verilmezse her çalıştırmada farklı bir dağıtım çıkar.
+
 ## Yeniden üretmek
 
 Renkleri ya da boyutları değiştirmek için `taslar.mjs` dosyasını düzenle:
